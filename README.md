@@ -1,1 +1,1 @@
-### :point_right: This repo contains the code of course Ionic 3 - For Starters!  :point_left:
+👉 This repository contains the Ionic 3 course code - For beginners! 👈
